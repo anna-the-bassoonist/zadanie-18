@@ -1,0 +1,10 @@
+h1{
+    color: red;
+}
+ 
+p:first-of-type{
+    color: brown;
+}
+p+p{
+    color: blue;
+}
